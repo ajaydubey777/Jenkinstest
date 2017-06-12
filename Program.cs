@@ -14,7 +14,7 @@ namespace TrekBikes
         static void Main(string[] args)
         {
             //ProcessUsingLineByLineJsonreader();
-            ProcessByLoadingWholeJson()
+            ProcessByLoadingWholeJson();
             Console.ReadLine();
         }
 
